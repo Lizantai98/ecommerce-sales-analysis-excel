@@ -107,13 +107,13 @@ Note: The trend analysis excludes records associated with the 1900 and 2010 entr
 
 Bikes were the highest revenue-generating category, contributing $28.3 million in sales.
 
-3. Top 10 Products by Revenue
+3. Top 5 Products by Revenue
 - **Rank - Product - Revenue**
-1	Mountain-200 Black- 46 - $1,373,454
-2	Mountain-200 Black- 42 - $1,363,128
-3	Mountain-200 Silver- 38 - $1,339,394
-4	Mountain-200 Silver- 46 - $1,301,029
-5	Mountain-200 Black- 38 - $1,294,854
+1. Mountain-200 Black- 46 - $1,373,454
+2. Mountain-200 Black- 42 - $1,363,128
+3. Mountain-200 Silver- 38 - $1,339,394
+4. Mountain-200 Silver- 46 - $1,301,029
+5. Mountain-200 Black- 38 - $1,294,854
 
 The top 5 best-selling products are all bikes, primarily Mountain-200, confirming Bikes as the company's core revenue driver, consistent with the category breakdown.
 
