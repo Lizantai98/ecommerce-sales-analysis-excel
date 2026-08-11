@@ -72,17 +72,17 @@ The dashboard contains six key performance indicators:
 - Shipping Time: 7 Days
 
 # KPI Definitions
-- Total Revenue - Sum of Sales Amount.
+- Total Revenue: Sum of Sales Amount.
 
-- Total Profit - Sum of Profit.
+- Total Profit: Sum of Profit.
 
-- Profit Margin - Total Profit ÷ Total Revenue.
+- Profit Margin: Total Profit ÷ Total Revenue.
 
-- Total Orders - Distinct count of Order Number.
+- Total Orders: Distinct count of Order Number.
 
-- Total Quantity - Sum of Quantity.
+- Total Quantity: Sum of Quantity.
 
-- Shipping Time - Average Shipping Check.
+- Shipping Time: Average Shipping Check.
 
 # Business Analysis
 1. Revenue Trend
@@ -101,9 +101,9 @@ Note: The trend analysis excludes records associated with the 1900 and 2010 entr
 
 2. Revenue by Category
 - **Category - Revenue**
-- Accessories - $700,262
-- Bikes - $28,316,272
-- Clothing - $339,716
+- Accessories: $700,262
+- Bikes: $28,316,272
+- Clothing: $339,716
 
 Bikes were the highest revenue-generating category, contributing $28.3 million in sales.
 
