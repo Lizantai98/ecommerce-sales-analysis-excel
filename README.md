@@ -217,4 +217,5 @@ The completed dashboard provides a concise view of revenue, profitability, produ
 This project strengthened my practical skills in Excel analytics, Power Query, Pivot Tables, data visualization, KPI development, and business-focused data analysis.
 
 # About Me
-Hi there! I'm Elizabeth Antai, a Product Designer transitioning into Data Analytics, building SQL & PostgreSQL projects that turn data into business insights.
+Hi there! I'm Elizabeth Antai, a Product Designer transitioning into Data Analytics, building data analytics projects that turn data into meaningful business insights using SQL, PostgreSQL, and Excel.
+
