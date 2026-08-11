@@ -100,10 +100,10 @@ The monthly analysis showed particularly strong revenue performance toward the e
 Note: The trend analysis excludes records associated with the 1900 and 2010 entries identified during the date validation process.
 
 2. Revenue by Category
-- **Category - Revenue**
-- Accessories: $700,262
-- Bikes: $28,316,272
-- Clothing: $339,716
+- **Category | Revenue**
+- Accessories | $700,262
+- Bikes | $28,316,272
+- Clothing | $339,716
 
 Bikes were the highest revenue-generating category, contributing $28.3 million in sales.
 
@@ -118,45 +118,45 @@ Bikes were the highest revenue-generating category, contributing $28.3 million i
 The top 5 best-selling products are all bikes, primarily Mountain-200, confirming Bikes as the company's core revenue driver, consistent with the category breakdown.
 
 4. Profitability by Category
-- **Category	  Revenue	        Profit	      Profit Margin**
-- Accessories	  $700,262	      $439,605	    63%
-- Bikes	        $28,316,272	    $11,109,565	  39%
-- Clothing	    $339,716	      $136,830	    40%
-- **Total	      $29,356,250	    $11,686,000	  40%**
+- **Category	| Revenue	| Profit | Profit Margin**
+- Accessories: $700,262 | $439,605	| 63%
+- Bikes: $28,316,272 | $11,109,565 | 39%
+- Clothing: $339,716 | $136,830 | 40%
+- **Total: $29,356,250 | $11,686,000 | 40%**
 
 The overall profit margin was 40%.
 
-Accessories had the highest profit margin at 63%, while Bikes generated the highest total profit because of their significantly greater revenue volume.
+Accessories had the highest profit margin at 63%, while Bikes generated the highest total profit due to their significantly higher revenue volume.
 
 5. Revenue by Country
-- **Country	      Revenue**
-- United States	  $9,162,327
-- Australia	      $9,060,172
-- United Kingdom	$3,391,376
-- Germany	        $2,894,066
-- France	        $2,643,751
-- Canada	        $1,977,738
-- n/a	            $226,820
+- **Country	| Revenue**
+- United States | $9,162,327
+- Australia | $9,060,172
+- United Kingdom | $3,391,376
+- Germany | $2,894,066
+- France | $2,643,751
+- Canada |	$1,977,738
+- n/a | $226,820
 
 The United States generated the highest revenue at $9.16 million, closely followed by Australia at $9.06 million.
 
 6. Top 5 Customers by Total Spend
-- **Rank	Customer	Total Spend**
-1	Jordan Turner	    $15,998
-2	Willie Xu	        $13,489
-3	Kaitlyn Henderson	$13,294
-4	Nichole Nara	    $13,294
-5	Margaret He	      $13,268
+- **Customer | Total Spend**
+1. Jordan Turner | $15,998
+2. Willie Xu | $13,489
+3. Kaitlyn Henderson | $13,294
+4. Nichole Nara	| $13,294
+5. Margaret He | $13,268
 
 Jordan Turner had the highest total spend at $15,998.
 
 7. Age Group Analysis
-- **Age Group	Sales	Order Count**
-- 40–55	  $15,471,026	  30,313
-- 56–70	  $10,798,928	  21,844
-- 71–85	  $2,890,240	  7,582
-- 86+	    $140,052	    580
-- Unknown	$56,004	      79
+- **Age | Group	Sales	| Order Count**
+- 40–55	| $15,471,026	| 30,313
+- 56–70	| $10,798,928	| 21,844
+- 71–85	| $2,890,240 | 7,582
+- 86+	 | $140,052	| 580
+- Unknown	| $56,004	| 79
 
 The 40–55 age group generated the highest sales and recorded the highest order activity.
 
