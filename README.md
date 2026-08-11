@@ -64,12 +64,12 @@ The final dataset contained:
 The dashboard contains six key performance indicators:
 
 **KPI	Result**
-- Total Revenue: $29,356,250
-- Total Profit: $11,686,000
-- Profit Margin: 40%
-- Total Orders: 27,659
-- Total Quantity: 60,423
-- Shipping Time: 7 Days
+- Total Revenue | $29,356,250
+- Total Profit | $11,686,000
+- Profit Margin | 40%
+- Total Orders | 27,659
+- Total Quantity | 60,423
+- Shipping Time | 7 Days
 
 # KPI Definitions
 - Total Revenue: Sum of Sales Amount.
@@ -82,7 +82,7 @@ The dashboard contains six key performance indicators:
 
 - Total Quantity: Sum of Quantity.
 
-- Shipping Time: Average Shipping Check.
+- Shipping Time: Average shipping time.
 
 # Business Analysis
 1. Revenue Trend
@@ -119,10 +119,10 @@ The top 5 best-selling products are all bikes, primarily Mountain-200, confirmin
 
 4. Profitability by Category
 - **Category	| Revenue	| Profit | Profit Margin**
-- Accessories: $700,262 | $439,605	| 63%
-- Bikes: $28,316,272 | $11,109,565 | 39%
-- Clothing: $339,716 | $136,830 | 40%
-- **Total: $29,356,250 | $11,686,000 | 40%**
+- Accessories | $700,262 | $439,605	| 63%
+- Bikes | $28,316,272 | $11,109,565 | 39%
+- Clothing | $339,716 | $136,830 | 40%
+- **Total | $29,356,250 | $11,686,000 | 40%**
 
 The overall profit margin was 40%.
 
@@ -215,3 +215,6 @@ The workflow covered data preparation, validation, transformation, KPI developme
 The completed dashboard provides a concise view of revenue, profitability, products, customers, geographic performance, and shipping efficiency.
 
 This project strengthened my practical skills in Excel analytics, Power Query, Pivot Tables, data visualization, KPI development, and business-focused data analysis.
+
+# About Me
+Hi there! I'm Elizabeth Antai, a Product Designer transitioning into Data Analytics, building SQL & PostgreSQL projects that turn data into business insights.
