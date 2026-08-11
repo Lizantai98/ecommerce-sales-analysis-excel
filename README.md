@@ -78,7 +78,7 @@ The dashboard contains six key performance indicators:
 
 - Profit Margin: Total Profit ÷ Total Revenue.
 
-- Total Orders: Distinct count of Order Number.
+- Total Orders: Distinct count of Order Number. This was calculated using the formula: =COUNTA(UNIQUE([Order Number])) since Mac does not support the DISTINCT count feature. 
 
 - Total Quantity: Sum of Quantity.
 
