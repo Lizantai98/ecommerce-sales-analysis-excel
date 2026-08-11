@@ -172,6 +172,8 @@ The 19 records with missing Order Dates produced blank Shipping Check values and
 # Dashboard
 The final Excel dashboard provides a visual summary of the analysis.
 
+<img width="1241" height="800" alt="ecommerce_analytics_dashboard" src="https://github.com/user-attachments/assets/af2824dc-d797-40c9-a6b1-c046b4d7d400" />
+
 **KPI Cards**
 - Total Revenue
 - Total Profit
